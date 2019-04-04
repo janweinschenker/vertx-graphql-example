@@ -5,3 +5,5 @@
 .idea
 .factorypath
 .vertx
+.env
+dependency-reduced-pom.xml
